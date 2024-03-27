@@ -6,6 +6,10 @@ Graph technology has emerged as a powerful tool for understanding complex relati
 
 The primary objective of this proposal is to develop a structured roadmap for graph engineers, graph scientists and knowledge engineers, outlining key concepts, skills, and best practices essential for success in these roles. By providing a clear pathway for individuals to acquire and enhance their expertise, we aim to empower them to navigate the evolving landscape of graph technology with confidence and proficiency.
 
+### Timeline: 
+
+We are proposing 6 weeks with a total of 60 hours.
+
 ### Anticipated Outcomes:
 
 - Empowerment through Education: The roadmap will serve as a comprehensive educational resource, equipping individuals with the knowledge and skills needed to excel in graph engineering, graph data scientist and knowledge engineering roles. By outlining foundational concepts, intermediate skills, and advanced expertise levels, we aim to facilitate continuous learning and professional development.
