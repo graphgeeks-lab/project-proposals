@@ -16,3 +16,5 @@ The primary objective of this proposal is to develop a structured roadmap for gr
 
 
 In summary, the proposed roadmap for graph engineers, graph data scientist and knowledge engineers represents a collaborative effort to empower individuals, foster community engagement, and drive innovation in the field of graph technology. We invite all members of the GraphGeeks community to join us in this endeavor and contribute their insights and expertise to shape the future of our industry.
+
+[Graph Engineer and Science](https://github.com/graphgeeks-lab/graph-engineer-and-scientist-roadmap) repo
